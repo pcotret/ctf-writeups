@@ -4,7 +4,7 @@
 
 Got an URL : http://simplesql.darkarmy.xyz/
 
-![sql1](.\img\sql1.png)
+![sql1](img/sql1.png)
 
 Nothing interesting there until we have a look at the source code:
 
