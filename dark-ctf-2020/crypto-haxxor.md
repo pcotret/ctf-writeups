@@ -7,9 +7,9 @@
 > ```
 
 - The encryption scheme is: `plaintext XOR key`
-- One important thing about `XOR` : `(PT XOR key) XOR key = PT`
+- One important thing about `XOR` is its associativity: `(ct XOR pt) = key `
 
-- Another important thing: we know the key starts with `darkCTF{` (`64 61 72 6b 43 54 46 7b` in hex).
+- Another important thing: we know the key starts with `darkCTF{` (`64 61 72 6b 43 54 46 7b` in hex). In other words, it's a partial KPA (*Known Plaintext Attack*).
 
 ```
 PT = 55 52 41 5c 2b 35 25 10 5a 46 57 07 1b 3e 0b 5f 49 4b 03 45 15
