@@ -55,9 +55,11 @@ http://arpetes-1967-1970.blogspot.com/2017/03/photos-darchives.html pour d'autre
 
 Un tour rapide sur Infogreffe et on retrouve le nom de la propriétaire : https://www.infogreffe.fr/recherche-entreprise-dirigeants/resultats-entreprise-dirigeants.html?ga_cat=globale&ga_q=le%20trou%20brest#phrase=le%20trou%20brest
 
-(rechercher "le trou brest" si le lien ne renvoie rien, cf. https://github.com/pcotret/ctf-writeups/issues/1)
+(rechercher "le trou brest" sur la [page d'accueil](https://www.infogreffe.fr/) si le lien ne renvoie rien, cf. https://github.com/pcotret/ctf-writeups/issues/1)
 
 ![infogreffe](./img/infogreffe.png)
+
+On est bons, le café est à la bonne adresse et a bien été fermé en 1992.
 
 ## Flag
 
