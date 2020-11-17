@@ -11,7 +11,6 @@ We have an encrypted file and a **public** key. It may be an assymetric encrypti
 ```
 ./RsaCtfTool.py --publickey public.pem --uncipherfile encrypted.txt
 STR : b'\x00\x02Ca1\xbc\xe8\xad\x165\xe4\xfc\x00AFFCTF{PermRecord}\n'
-
 ```
 
  ## Flag
