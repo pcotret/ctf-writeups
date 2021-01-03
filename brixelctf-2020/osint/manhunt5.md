@@ -6,7 +6,7 @@
 
 We're talking about this tweet:
 
-![image-20210101224930546](/home/pascal/Downloads/ctf-writeups/brixelctf-2020/osint/image-20210101224930546.png)
+![image-20210101224930546](./image-20210101224930546.png)
 
 Unfortunately, the webpage has been deleted... However, it has been saved in the Wayback Machine https://web.archive.org/web/20190115103029/http://www.howitshould.be/test-page/
 
