@@ -6,7 +6,7 @@ Ah, now you know his name, good. Can you tell me the name of his last employer? 
 
 Looking for employment information, the first idea was to go on LinkedIn. We found Johnny!
 
-![image-20210101224239787](/home/pascal/Downloads/ctf-writeups/brixelctf-2020/osint/image-20210101224239787.png)
+![image-20210101224239787](./image-20210101224239787.png)
 
 ## Flag
 
