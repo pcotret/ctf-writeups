@@ -6,7 +6,7 @@ So now you know where he lives, can you tell me what was written on his wall in 
 
 We can use the wayback feature available in Google Maps to see what was written on the wall in 2013.
 
-![image-20210101225754469](/home/pascal/Downloads/ctf-writeups/brixelctf-2020/osint/image-20210101225754469.png)
+![image-20210101225754469](./image-20210101225754469.png)
 
 ## Flag
 
