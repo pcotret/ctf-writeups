@@ -10,7 +10,7 @@ If we open the sound file with Audacity, there's a weird section in the middle:
 
 In the spectrogram view, we can see Hello Kitty!
 
-![image-20210102111809326](/home/pascal/Downloads/ctf-writeups/brixelctf-2020/stego/image-20210102111809326.png)
+![image-20210102111809326](./image-20210102111809326.png)
 
 ## Flag
 
