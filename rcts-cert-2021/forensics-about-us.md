@@ -1,6 +1,6 @@
 # About us
 
-This challenge is about the RCTS CERT at FCCN. Can you get the flag?
+> This challenge is about the RCTS CERT at FCCN. Can you get the flag?
 
 ```bash
 $ strings RCTSCERT-FCCN.pdf | grep "flag"                   
