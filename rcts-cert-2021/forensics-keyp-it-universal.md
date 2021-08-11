@@ -18,6 +18,8 @@ First, let's filter a bit:
 
 ![image-20210811120225469](img/image-20210811120225469.png)
 
+In this screenshot, there is the first packet `00 00 09 ...`. `0x09` is mapped to the letter `f` as shown in the Python script below:
+
 HID data should be stored in `hexoutput.txt` ()
 
 ```python
@@ -36,7 +38,7 @@ newmap = {
 42: "del",
 43: "tab",
 44: "space",
-45: "-",
+45: "_",
 47: "{",
 48: "}",
 56: "/",
