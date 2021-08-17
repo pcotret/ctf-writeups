@@ -8,7 +8,7 @@ Download: [RC_four.zip](https://cdn.sstf.site/hpg21/RC_four.zip)
 
 This is a **tutorial** challenge from Hacker's Playground 2020.
 If you are not sure how to solve this,
-please refer to the **tutorial guide([Eng](javascript:void(0);) | [Kor](javascript:void(0);))**.
+please refer to the **tutorial guide ([Eng](https://onedrive.live.com/embed?resid=F7E83213DDD289C7!2253&authkey=!AOekQp-wZMxDdfA&em=2))**.
 
 ## Solution
 
