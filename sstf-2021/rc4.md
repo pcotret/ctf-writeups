@@ -10,7 +10,7 @@ This is a **tutorial** challenge from Hacker's Playground 2020.
 If you are not sure how to solve this,
 please refer to the **tutorial guide([Eng](javascript:void(0);) | [Kor](javascript:void(0);))**.
 
-## Solution
+## Solution
 
 ```python
 from binascii import unhexlify
