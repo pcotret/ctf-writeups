@@ -17,6 +17,7 @@ Cependant, à la première utilisation de Git, on est censé configurer un nom e
 ```bash
 $ git clone https://github.com/B0G055DU35/learning-to-drive-in-a-day
 $ cd learning-to-drive-in-a-day	
+$ git log
 commit 58f0c10aac7b2d8bbb871acee1e70ebae5e57cbd (HEAD -> master, origin/master, origin/HEAD)
 Author: Erwan <erwanreausodu56@gmail.com>
 Date:   Tue Sep 14 21:15:44 2021 +0200
