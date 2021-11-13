@@ -2,7 +2,7 @@
 
 A present, il vous est possible de  trouver le compte de l'un des auteurs du vol sur un service web  d'hébergement de développement de logiciels. Quelle adresse mail est liée à ce compte ?
 
-## Solution
+## Solution
 
 Les services auxquels l'énoncé peut faire reférence sont des sites tels que Github ou Gitlab par exemple.
 
