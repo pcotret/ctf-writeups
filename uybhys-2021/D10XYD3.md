@@ -2,7 +2,7 @@
 
 Pendant vos investigations sur les  réseaux, vous êtes avertis que des témoins ont filmé le camion de la  société dans une petite ville de France. Une vidéo du camion circule sur la toile, sur un réseau social pour  les spécialistes modernes de la phonéographie. Trouvez la ville dans  laquelle est passée le camion.
 
-## Solution
+## Solution
 
 Le témoignage de Fabien Thibodot est intéressant :
 
