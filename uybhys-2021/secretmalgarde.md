@@ -1,4 +1,4 @@
-# Secret mal gardé 					
+# Secret mal gardé 					
 
 C'est la pleine lune, le moment où les  amoureux se tournent autour. Là il s'agit de chasse. C'est différent.  Mais on peut aimer ce qu'on mange, vous ne pensez pas ? Il y a deux types de chasseur dans la vie. Le bon chasseur, et le  mauvais chasseur. Je crois avoir oublié la suite... Il paraît que monsieur Sacripant à un coin de chasse qu'il garde pour lui. Un coin secret. Trouvez la localisation de celui-ci. Je vous  promets qu'il n'en saura rien !
 
