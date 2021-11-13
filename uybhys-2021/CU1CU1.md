@@ -17,7 +17,7 @@ Site offline à l'heure d'écriture du writeup mais on obtenait un site dont la 
 ## Flag
 
 ```
-UYBHYS{}
+UYBHYS{M1551ON_Z3R0}
 ```
 
 
