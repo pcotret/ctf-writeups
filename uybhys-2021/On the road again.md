@@ -37,6 +37,12 @@ D137 qui relie Rennes à Saint-Malo et qui longe le fort de Saint-Père, lieu de
 
 La boucle musicale était bouclée !
 
+## Note
+
+A se rappeler pour les prochaines fois, il n'y a pas que Google comme moteur de recherche. Bing et Duckduckgo renvoyaient la piste Soundcloud plus rapidement...
+
+![image-20211114160913975](img/image-20211114160913975.png)
+
 ## Flag
 
 ```
