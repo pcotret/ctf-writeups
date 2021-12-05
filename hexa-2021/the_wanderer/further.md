@@ -21,7 +21,7 @@ These points are +/- on the same line:
 
 Furthermore, as we have to extrapolate, we can see a little logic in the GPS coordinates.
 
-For the next point, what if we put latitude-2 and longitude-2 ?
+For the next point, what if we put latitude-4 and longitude-2 ?
 
 ![image-20211205194238121](img/image-20211205194238121.png)
 
