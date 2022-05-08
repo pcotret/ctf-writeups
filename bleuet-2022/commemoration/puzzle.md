@@ -1,4 +1,4 @@
-# Puzzle Mémoriel
+# Puzzle Mémoriel
 
 ![img](./img/puzzle_question.png)
 
