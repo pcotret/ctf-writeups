@@ -2,7 +2,7 @@
 
 Le passage d'un message codé à une heure précise doit servir de garantie pour votre prochaine mission. Vous  essayez tant bien que mal de déchiffrer le contenu du message que vous  entendez de votre poste. **Question : Quel est le nom du responsable au commandement  dans le message radio et à quelle heure sera la prochaine émission  radio?** (cf. [radio.mp3](./img/radio.mp3))
 
-## Solution
+## Solution
 
 Dans ce challenge, Audacity est notre ami :
 
