@@ -4,7 +4,7 @@
 
 Dans l’imaginaire collectif, il est compliqué de se dire qu’il y a presque 80 ans se tenaient de violents combats dans Paris. **Question : Quelle est la dénomination sociale du commerce qui se trouve en lieu et place de la barricade ?**
 
-## Solution
+## Solution
 
 Un challenge qui m'a valu un sacré casse-tête suite à une faute d'inattention...
 
