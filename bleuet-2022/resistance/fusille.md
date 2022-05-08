@@ -30,7 +30,7 @@ C'était pas plus compliqué que d'aller sur la page Wikipedia du fusillé souri
 
 ![image-20220508153824574](img/image-20220508153824574.png)
 
-Citadelle où l'on trouve d'ailleurs une chouette statue de lion liée à [une autre guerre](https://fr.wikipedia.org/wiki/Lion_de_Belfort) :
+Citadelle où l'on trouve d'ailleurs une chouette statue de lion liée à [une autre guerre](https://fr.wikipedia.org/wiki/Lion_de_Belfort) par le même Bartholdi qui a fait la statue de la Liberté :
 
 ![img](https://cdn-s-www.estrepublicain.fr/images/4CFD131C-3008-40BC-A937-01A84328EF4E/NW_raw/photo-er-michael-desprez-1595489798.jpg)
 
