@@ -6,7 +6,7 @@ Format : HEXA{city}
 
 ## Method
 
-[Chronotrains](https://www.chronotrains.com/fr?zoom=7.6&lng=10.19&lat=47.03&stationId=8503000) is a great tool to search for trains in a 5hrs limit. The original project (linked in Chronotrains description in even more interesting): [🇪🇺 Direct train connections](https://direkt.bahn.guru/?origin=8503000)
+[Chronotrains](https://www.chronotrains.com/fr?zoom=7.6&lng=10.19&lat=47.03&stationId=8503000) is a great tool to search for trains in a 5hrs limit. The original project (linked in Chronotrains description in even more interesting): https://direkt.bahn.guru/?origin=8503000
 
 Then, we just search until finding the solution:
 
