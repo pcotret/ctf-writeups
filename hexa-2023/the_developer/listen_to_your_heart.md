@@ -6,7 +6,7 @@ Format : HEXA{you_will_know_this_is_a_flag}
 
 ## Method
 
-The Github profile contains another username `littleSparr0w`.  Tried this username with [GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret): nothing interesting...
+The Github profile contains another username `littleSparr0w`.  Tried this username with [Maigret](https://github.com/soxoj/maigret): nothing interesting...
 
 The Github profile isn't active but the user starred only one project: a Mastodon client!
 
