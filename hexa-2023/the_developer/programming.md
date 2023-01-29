@@ -10,7 +10,7 @@ Nothing on the website even in the footer where we can usually find such informa
 
 ![](./images/2023-01-29-11-15-38-image.png)
 
-Developers usually use platforms such as Gitlab or Github to store code projects. Downloaded [http://nelexa.ch/.git](http://nelexat.ch/.git/) thanks to this great tool: [GitHub - arthaud/git-dumper: A tool to dump a git repository from a website](https://github.com/arthaud/git-dumper)
+Developers usually use platforms such as Gitlab or Github to store code projects. Downloaded http://nelexat.ch/.git/ thanks to this great tool: https://github.com/arthaud/git-dumper
 
 ![](./images/2023-01-29-11-18-39-image.png)
 
