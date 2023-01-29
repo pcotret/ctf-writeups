@@ -7,11 +7,11 @@ Format : HEXA{ID}
 
 ## Method
 
-Allan Pinkerton seems to be our target. Something really important :
+Allan Pinkerton seems to be our target. But lots of results on Youtube... Something really important :
 
 > so he could be among you
 
-Why if Pinkerton was a player of the CTF ?
+What if Pinkerton was a player of the CTF ?
 
 ![](./images/2023-01-29-13-29-38-image.png)
 
