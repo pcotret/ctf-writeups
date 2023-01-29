@@ -8,7 +8,7 @@ Format : HEXA{name}
 
 - Searched "Kermit great war" leads us to Kermit Roosevelt, Theodore's son. Nothing here...
 
-- " The third of his name": [Kermit Roosevelt III](https://en.wikipedia.org/wiki/Kermit_Roosevelt_III) is from the same family and an author.
+- "The third of his name": [Kermit Roosevelt III](https://en.wikipedia.org/wiki/Kermit_Roosevelt_III) is from the same family and an author.
 
 - His second novel, *Allegiance*, published in 2015, was a Harper Lee Prize finalist.
 
