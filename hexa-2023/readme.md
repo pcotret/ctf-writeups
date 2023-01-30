@@ -6,7 +6,7 @@ Several challenges couldn't be solved without teammates. Thanks to them.
 
 ## Unsolved challenges
 
-- Finding a place of worship close to a soccer field but not too close from the sea somewhere in Malaysia? It had to deal with [Overpass turbo](https://wiki.openstreetmap.org/wiki/FR:Overpass_turbo). Couldn't deal with it in the CTF time. [OZint](ozint.eu/) has a tutorial on it.
+- Finding a place of worship close to a soccer field but not too close from the sea somewhere in Malaysia? It had to deal with [Overpass turbo](https://wiki.openstreetmap.org/wiki/FR:Overpass_turbo). Couldn't deal with it in the CTF time. [OZint](www.ozint.eu/) has a tutorial on it.
 
 ## Report samples
 
