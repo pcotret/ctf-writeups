@@ -18,6 +18,8 @@ Got the answer after lots of tries with Google Assistant.
    risk in France if they make an identity theft by giving me the penal 
   code article identifier. (format: !c2-123-1-1)
 
+Quick search on Legifrance: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593
+
 ![](./images/2023-01-29-13-45-28-image.png)
 
 ## Solution
