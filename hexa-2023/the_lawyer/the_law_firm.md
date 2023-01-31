@@ -7,7 +7,7 @@ Format : HEXA{you_will_know_this_is_a_flag}
 
 ## Method
 
-Nelexat is a Swiss company. Just tried [www.nelexat.ch](http://www.nelexat.ch). Flag is is the footer.
+Nelexat is a Swiss company. Just tried [www.nelexat.ch](http://www.nelexat.ch). Flag is in the footer.
 
 ![](./images/2023-01-29-10-52-08-image.png)
 
