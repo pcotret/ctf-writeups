@@ -61,6 +61,8 @@ don't worry no one will get here, it's safe to share with you my access. Its enc
 -->
 ```
 
+## User flag
+
 It clearly looks like [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) code. By using an online decompiler such as https://www.dcode.fr/langage-brainfuck, it can be decoded:
 
 ```
@@ -110,6 +112,8 @@ There's a flag given in the `user.txt` file:
 [cyber@breakout ~]$ cat user.txt
 3mp!r3{You_Manage_To_Break_To_My_Secure_Access}
 ```
+
+## Root flag
 
 There is also a `tar` binary which seems to work like the normal tool:
 
